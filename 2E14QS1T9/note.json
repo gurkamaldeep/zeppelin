@@ -21,11 +21,22 @@
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "hello"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1544634539364_1411839875",
       "id": "20181212-170859_739471535",
       "dateCreated": "2018-12-12 17:08:59.364",
-      "status": "READY",
+      "dateStarted": "2018-12-12 17:09:14.294",
+      "dateFinished": "2018-12-12 17:09:49.054",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
