@@ -102,11 +102,55 @@
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u003cconsole\u003e:24: error: not found: value asdasd\n       asdasd\n       ^\n"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1544634763824_-2094383011",
       "id": "20181212-171243_997575414",
       "dateCreated": "2018-12-12 17:12:43.824",
-      "status": "READY",
+      "dateStarted": "2018-12-12 17:39:20.768",
+      "dateFinished": "2018-12-12 17:39:52.648",
+      "status": "ERROR",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "print(\"hihi\")",
+      "user": "anonymous",
+      "dateUpdated": "2018-12-12 17:41:04.600",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {}
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "hihi"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544636360725_4895126",
+      "id": "20181212-173920_1122339820",
+      "dateCreated": "2018-12-12 17:39:20.725",
+      "dateStarted": "2018-12-12 17:41:04.630",
+      "dateFinished": "2018-12-12 17:41:05.029",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -117,9 +161,9 @@
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544636360725_4895126",
-      "id": "20181212-173920_1122339820",
-      "dateCreated": "2018-12-12 17:39:20.725",
+      "jobName": "paragraph_1544636453430_238385762",
+      "id": "20181212-174053_1424748028",
+      "dateCreated": "2018-12-12 17:40:53.431",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
