@@ -3,7 +3,7 @@
     {
       "text": "print(\"hello\")",
       "user": "anonymous",
-      "dateUpdated": "2018-12-12 17:12:46.617",
+      "dateUpdated": "2018-12-12 17:15:39.547",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -15,7 +15,8 @@
           "completionKey": "TAB",
           "completionSupport": true
         },
-        "editorMode": "ace/mode/scala"
+        "editorMode": "ace/mode/scala",
+        "tableHide": false
       },
       "settings": {
         "params": {},
@@ -42,7 +43,7 @@
     {
       "text": "print(\"hi\")",
       "user": "anonymous",
-      "dateUpdated": "2018-12-12 17:12:43.824",
+      "dateUpdated": "2018-12-12 17:15:39.564",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -54,7 +55,8 @@
           "completionKey": "TAB",
           "completionSupport": true
         },
-        "editorMode": "ace/mode/scala"
+        "editorMode": "ace/mode/scala",
+        "tableHide": false
       },
       "settings": {
         "params": {},
@@ -80,7 +82,21 @@
     },
     {
       "user": "anonymous",
-      "config": {},
+      "dateUpdated": "2018-12-12 17:15:39.578",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala",
+        "tableHide": false
+      },
       "settings": {
         "params": {},
         "forms": {}
