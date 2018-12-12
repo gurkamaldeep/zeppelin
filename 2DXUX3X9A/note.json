@@ -39,6 +39,77 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "text": "pwd",
+      "user": "anonymous",
+      "dateUpdated": "2018-12-12 18:21:24.804",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {}
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "/var/lib/zeppelin\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544638139647_1897189662",
+      "id": "20181212-180859_1980789742",
+      "dateCreated": "2018-12-12 18:08:59.647",
+      "dateStarted": "2018-12-12 18:21:24.847",
+      "dateFinished": "2018-12-12 18:21:24.874",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "ls",
+      "user": "anonymous",
+      "dateUpdated": "2018-12-12 18:24:59.766",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "local-repo\nnotebook\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544638884804_-142647081",
+      "id": "20181212-182124_148403499",
+      "dateCreated": "2018-12-12 18:21:24.804",
+      "dateStarted": "2018-12-12 18:24:59.797",
+      "dateFinished": "2018-12-12 18:24:59.854",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
       "user": "anonymous",
       "config": {},
       "settings": {
@@ -46,9 +117,9 @@
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544638139647_1897189662",
-      "id": "20181212-180859_1980789742",
-      "dateCreated": "2018-12-12 18:08:59.647",
+      "jobName": "paragraph_1544639099766_1378440563",
+      "id": "20181212-182459_165683314",
+      "dateCreated": "2018-12-12 18:24:59.766",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
