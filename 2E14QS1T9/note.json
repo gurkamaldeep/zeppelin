@@ -3,7 +3,7 @@
     {
       "text": "print(\"hello\")",
       "user": "anonymous",
-      "dateUpdated": "2018-12-12 17:09:14.268",
+      "dateUpdated": "2018-12-12 17:12:46.617",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -34,8 +34,47 @@
       "jobName": "paragraph_1544634539364_1411839875",
       "id": "20181212-170859_739471535",
       "dateCreated": "2018-12-12 17:08:59.364",
-      "dateStarted": "2018-12-12 17:09:14.294",
-      "dateFinished": "2018-12-12 17:09:49.054",
+      "dateStarted": "2018-12-12 17:12:46.638",
+      "dateFinished": "2018-12-12 17:12:47.043",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "print(\"hi\")",
+      "user": "anonymous",
+      "dateUpdated": "2018-12-12 17:12:43.824",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "hi"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544634554272_-2145028303",
+      "id": "20181212-170914_1106077844",
+      "dateCreated": "2018-12-12 17:09:14.272",
+      "dateStarted": "2018-12-12 17:12:43.850",
+      "dateFinished": "2018-12-12 17:12:44.271",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
@@ -47,9 +86,9 @@
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544634554272_-2145028303",
-      "id": "20181212-170914_1106077844",
-      "dateCreated": "2018-12-12 17:09:14.272",
+      "jobName": "paragraph_1544634763824_-2094383011",
+      "id": "20181212-171243_997575414",
+      "dateCreated": "2018-12-12 17:12:43.824",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
