@@ -76,6 +76,44 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "text": "df -h",
+      "user": "anonymous",
+      "dateUpdated": "2018-12-14 16:14:40.045",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Filesystem      Size  Used Avail Use% Mounted on\ndevtmpfs        7.4G   76K  7.4G   1% /dev\ntmpfs           7.4G     0  7.4G   0% /dev/shm\n/dev/xvda1      9.8G  6.3G  3.4G  66% /\n/dev/xvdb1      5.0G   59M  5.0G   2% /emr\n/dev/xvdb2       33G  462M   33G   2% /mnt\n/dev/xvdc        38G   44M   38G   1% /mnt1\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544803924204_604608738",
+      "id": "20181214-161204_1668378454",
+      "dateCreated": "2018-12-14 16:12:04.204",
+      "dateStarted": "2018-12-14 16:14:40.098",
+      "dateFinished": "2018-12-14 16:14:42.216",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
       "user": "anonymous",
       "config": {},
       "settings": {
@@ -83,9 +121,9 @@
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544803924204_604608738",
-      "id": "20181214-161204_1668378454",
-      "dateCreated": "2018-12-14 16:12:04.204",
+      "jobName": "paragraph_1544804080049_-2010363651",
+      "id": "20181214-161440_811255333",
+      "dateCreated": "2018-12-14 16:14:40.049",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
